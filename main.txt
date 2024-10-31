@@ -3,3 +3,5 @@ Hello World!
 writing in this line to test "git diff" functionality
 
 I'm learning git to be able to work on my projects more efficiently and be more productive
+
+this is going to be the line that tells you i'm trying to test the diff command

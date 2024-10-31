@@ -1,1 +1,5 @@
 this is a file, alternative to main.txt to see how diff command works
+
+oh I forgot to say hello!
+
+hello world!

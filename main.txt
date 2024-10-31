@@ -1,3 +1,5 @@
 Hello World!
 
 writing in this line to test "git diff" functionality
+
+I'm learning git to be able to work on my projects more efficiently and be more productive

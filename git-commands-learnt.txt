@@ -1,0 +1,16 @@
+git init
+git clone
+git add
+git commit
+git config
+git restore
+git diff
+git log
+git blame
+git tag
+git stash
+git reflog
+git clean
+git reset
+git commit --amend
+git status

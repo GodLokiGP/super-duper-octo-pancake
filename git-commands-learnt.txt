@@ -14,3 +14,4 @@ git clean
 git reset
 git commit --amend
 git status
+git rm

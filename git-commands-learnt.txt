@@ -17,3 +17,4 @@ git status
 git rm
 git branch
 git checkout
+git rebase(-i -Squash)

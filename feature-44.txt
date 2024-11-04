@@ -1,2 +1,3 @@
 line 1 for merge
 line 2 for merge
+line 3 for merge

@@ -9,3 +9,4 @@ this is going to be the line that tells you i'm trying to test the diff command
 testing rebase command
 
 line 1 to merge
+line 2 to merge

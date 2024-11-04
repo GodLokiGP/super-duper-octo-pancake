@@ -8,13 +8,4 @@ this is going to be the line that tells you i'm trying to test the diff command
 
 testing rebase command
 
-going ahead with commits
-
-going ahead with commits, 2
-<<<<<<< HEAD
-=======
-
-going ahead with commits, 3
-
-going ahead with commits, 4
->>>>>>> 700fbb2 (added new line to main.txt to go ahead-4)
+line 1 to merge
